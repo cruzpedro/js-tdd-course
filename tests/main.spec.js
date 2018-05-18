@@ -1,5 +1,4 @@
-/* import { expect } from 'chai'; */
-const expect = require('chai').expect;
+import { expect } from 'chai';
 
 describe('Main', () => {
   let arr = [];
